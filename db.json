@@ -1,0 +1,64 @@
+{
+  "biodata": [
+    {
+      "id": "1",
+      "nama": "John",
+      "email": "john@gmail.com",
+      "phone": "12345678"
+    },
+    {
+      "id": "2",
+      "nama": "Jokowi",
+      "email": "Jokowi@gmail.com",
+      "phone": "12345678"
+    },
+    {
+      "id": "3",
+      "nama": "Ahung",
+      "email": "Ahung@gmail.com",
+      "phone": "12345678"
+    },
+    {
+      "id": "8b31",
+      "nama": "xxxx",
+      "email": "xxx@gmail.com",
+      "phone": "1223"
+    },
+    {
+      "id": "fbe3",
+      "nama": "yyy",
+      "email": "yyy@gmail.com",
+      "phone": "2222"
+    },
+    {
+      "id": "bbd9",
+      "nama": "aaa",
+      "email": "aaa@gmail.com",
+      "phone": "aaaa"
+    },
+    {
+      "id": "82fa",
+      "nama": "bbb",
+      "email": "bbb@gmail.com",
+      "phone": "bbb"
+    },
+    {
+      "id": "45fc",
+      "nama": "nanang",
+      "email": "nananghidayatulloh@gmail.com",
+      "phone": "1234567"
+    },
+    {
+      "id": "d682",
+      "nama": "iiii",
+      "email": "trtrt@gmail.com",
+      "phone": "33333"
+    },
+    {
+      "id": "36ad",
+      "nama": "2222",
+      "email": "222@gmail.com",
+      "phone": "2222"
+    }
+  ]
+}
